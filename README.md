@@ -27,7 +27,7 @@ Este é um projeto simples de conversão de moedas utilizando Java, integração
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone https://github.com/monyse56/conversor-moedas.git
 
 Compile e execute:
 javac -d bin src/*.java
